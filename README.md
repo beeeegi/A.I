@@ -1,3 +1,5 @@
-# in this repo, i will upload everything that i will use for machine learning, A.I related stuff and more
+# in this repo, i'll upload everything i'll use to learn A.I and related stuff
 
-datasets that i use and will be using (idk bout that): https://mega.nz/folder/AONCXC6I#ydp9Q-2sSdR0XI3QbeEi6g
+i'm too lazy for uploading every dataset, so search it manually
+
+A.I models that i've trained already: https://mega.nz/folder/Ub8DVBaJ#He4iHJn-1xME8Z5KsvrFLw
